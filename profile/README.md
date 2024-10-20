@@ -4,7 +4,7 @@
 > 
 > _- Jonghyeon Park. Aug, 2024._
 
-This organization is for some team projects in the undergraduate course students at [Chonnam National University](https://jnu.ac.kr).  
+This organization is for some team projects driven by the undergraduate course students at [Chonnam National University](https://jnu.ac.kr).  
 
 ## 24 Oasis Hackathon - _Champagne Supernova_
 ### Members
